@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/New_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "Local")(type "KiCad")(uri "${KIPRJMOD}/Local.kicad_sym")(options "")(descr ""))
+  (lib (name "OEM Components")(type "KiCad")(uri "/home/justin/Seafile/Documents/000 Projects/01 Car Projects/Car DAC/Stereo/Stereo Replacement/OEM Components.kicad_sym")(options "")(descr ""))
+  (lib (name "JBennett")(type "KiCad")(uri "/home/justin/Seafile/Documents/KiCad/My Components/JBennett.kicad_sym")(options "")(descr ""))
+)

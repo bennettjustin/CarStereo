@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Local")(type "KiCad")(uri "${KIPRJMOD}/Local.pretty")(options "")(descr ""))
+  (lib (name "OEM Components")(type "KiCad")(uri "/home/justin/Seafile/Documents/000 Projects/01 Car Projects/Car DAC/Stereo/Stereo Replacement/OEM Components.pretty")(options "")(descr ""))
+  (lib (name "JBennett")(type "KiCad")(uri "/home/justin/Seafile/Documents/KiCad/My Components/JBennett.pretty")(options "")(descr ""))
+)
